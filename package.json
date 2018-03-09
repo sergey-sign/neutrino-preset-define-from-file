@@ -1,0 +1,13 @@
+{
+  "name": "neutrino-preset-define-from-file",
+  "version": "0.0.1",
+  "description": "define global constant with content from file",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^3.10.0"
+  },
+  "peerDependencies": {
+    "neutrino": "^8.0.0"
+  }
+}
